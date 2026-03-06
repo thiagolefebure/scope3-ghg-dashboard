@@ -4,6 +4,8 @@
 
 ![Dashboard Preview](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-2.10-22b5bf) ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white) ![License](https://img.shields.io/badge/license-MIT-green)
 
+**[🚀 Live live](https://scope3-ghg-dashboard.vercel.app)**
+
 ---
 
 ## 📌 Context
@@ -117,7 +119,7 @@ All data is **simulated** for demonstration purposes and follows the GHG Protoco
 
 ## 👤 About
 
-Built by **[Your Name]** as a portfolio project demonstrating expertise in:
+Built by Thiago Lefebure as a portfolio project demonstrating expertise in:
 - Scope 3 GHG accounting & reporting frameworks
 - Supply chain sustainability data management
 - Stakeholder engagement tooling
